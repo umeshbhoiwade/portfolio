@@ -4,6 +4,17 @@
     flex-direction: column;
     gap: 20px;
     
+    
+}
+.icons{
+    display: flex;
+    gap: 20px;
+    img{
+        height: 40px;
+    }
+    .icon:hover{
+       cursor: pointer;
+    }
 }
 .profile-img{
     margin-top: 30px;
